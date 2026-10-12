@@ -3,3 +3,4 @@ b=int(input("entre a another num: ")
 print("sum= ",a+b)
 print("diff= ",a-b)
 print("product= ",a*b)#changed in remote repository
+#changes made remotely
